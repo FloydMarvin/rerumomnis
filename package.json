@@ -1,0 +1,33 @@
+{
+  "name": "rerumomnis",
+  "version": "1.0.0",
+  "description": "Jest & Next.js - Dynamic import with TypeScript",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "devDependencies": {
+    "@babel/core": "^7.3.3",
+    "babel-core": "^7.0.0-bridge",
+    "babel-jest": "^24.1.0",
+    "babel-plugin-dynamic-import-node": "^2.2.0",
+    "jest": "^24.9.0",
+    "next": "^9.0.0",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-test-renderer": "^16.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FloydMarvin/rerumomnis.git"
+  },
+  "keywords": [
+    "jest-next-dynamic-ts",
+    "soluta",
+    "provident",
+    "dolorem"
+  ],
+  "author": "MaryWard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FloydMarvin/rerumomnis.git/issues"
+  }
+}
